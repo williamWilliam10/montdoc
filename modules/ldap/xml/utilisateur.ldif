@@ -1,0 +1,37 @@
+# Utilisateur 1
+dn: uid=william,ou=people,dc=montdoc,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: william
+cn: william
+sn: 1
+givenName: william
+userPassword: montdoc1
+
+# Utilisateur2
+dn: uid=lowe,ou=people,dc=montdoc,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: lowe
+cn: lowe
+sn: 2
+givenName: lowe
+userPassword: montdoc2
+
+#utilisateur 3
+dn uid=ppetit,ou=people,dc=montdoc,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: ppetit
+cn: ppetit
+sn: 3
+givenName: ppetit
+userPassword: montdoc3
+
+

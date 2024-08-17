@@ -1,0 +1,11 @@
+# Utilisateur 1
+dn: uid=ppetit,ou=people,dc=montdoc,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: ppetit
+cn: ppetit
+sn: 1
+givenName: ppetit
+userPassword: montdoc1

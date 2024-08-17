@@ -1,0 +1,4 @@
+# Création de l'unité organizationnelle (organizational unit) "people"
+dn: ou=people,dc=montdoc,dc=org
+objectClass: organizationalUnit
+ou: people

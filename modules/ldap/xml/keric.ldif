@@ -1,0 +1,10 @@
+dn: uid=keric,ou=people,dc=montdoc,dc=org
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+uid: keric
+cn: keric
+sn: Keric
+givenName: keric
+userPassword: maarch
